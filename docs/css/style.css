@@ -1,0 +1,51 @@
+
+p{
+	font-size: 15pt;
+	font-family: arial;
+	color: black;
+	margin: 15pt 30pt 15pt 50pt;
+}
+h1 {
+	box-shadow: 10px 10px 10px red;
+	color: black;
+	font-weight: bold;
+	font-family: arial black;
+	text-align: center;
+}
+li{
+	text-align: center;
+	font-size: 15pt;
+	font-weight: bold;
+	color: black;
+}
+body{
+	background-color: white;
+}
+a 
+{
+   color: red;
+   font-style: italic;
+}
+
+a:hover 
+{
+   text-decoration: underline;
+   color: black;
+   font-style: iralic;
+}
+
+ 
+ h2{
+ 	color: black;
+ 	font-family: arial black;
+ 	text-align: center;
+ }
+ h3{
+ 	color: black;
+ 	font-family: comic sans ms;
+ 	margin: 15pt 30pt 15pt 50pt;
+ }
+img
+{
+	width: 65pt;
+}
